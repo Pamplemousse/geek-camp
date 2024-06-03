@@ -75,7 +75,7 @@
 * enfants
 
 # Pendant le weekend
-* penser à allumer le feu une heure avant le barbecue
+* penser à allumer le feu trois heures avant l'heure prévue pour le repas
 * mettre la table
 * debarasser et nettoyer la table
 * lancer lave-vaiselle
