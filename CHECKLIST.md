@@ -57,6 +57,9 @@
 * torchons
 * film etirable
 * couteaux de cuisine
+* épluche légumes
+* plat à tartes
+* cocotte minute
 * ouvre boite
 * tire-bouchon
 * sac poubelle 100l
