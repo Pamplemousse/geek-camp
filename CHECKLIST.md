@@ -4,11 +4,10 @@
 * ouvrir inscriptions
 * réserver salle
 * save the date
-* communiquer - tweet, slack, meetup, [Mobilizon](https://joinmobilizon.org/fr/)
-
+* communiquer - [tooter](https://mamot.fr/@okiwi@piaille.fr), [slack](https://okiwi-fr.slack.com/archives/C687EJFM0), [meetup](https://www.meetup.com/software-craftsmanship-bdx/), [Mobilizon](https://joinmobilizon.org/fr/)
 
 # Juste avant
-* recommuniquer - retweet etc
+* recommuniquer - retoot etc.
 * surveiller la méteo
 * rappel ne pas oublier de tente, sac de couchage, etc.
 * rappel ne pas oublier matos jeux - frisbee, molky, etc.
