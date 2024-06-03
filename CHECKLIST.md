@@ -82,6 +82,7 @@
 
 ## Présenter le cadre / fonctionnement
 * vous êtes tous organisateurs (co-responsabilité, auto-gestion, légitimité à prendre des initiatives)
+* parler du coût du week-end, calculer le prix conscient pour chacun (prix total / nombre de participant.e.s)
 * règles des deux pieds (si tu n'es pas en train d'apprendre ou de transmettre, tu as mieux à faire, suis tes pieds sans attendre ni formalités ; les autres sont OK avec ton choix)
 * papillonner et butiner sont bienvenus (aller, venir, intervenir pour polliniser, faire des trucs imprévus, informels, dormir bercé par ce qui se dit dans une session...)
 * place du marché :
